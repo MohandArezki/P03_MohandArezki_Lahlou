@@ -18,7 +18,8 @@ Project
 ├── img
 ├── documentation
 
-DéfiniCompétences évaluées
+# OpenClassrooms - Formation Développeur d'application Python - Projet 03
+
 # Définir les exigences fonctionnelles de l’application à partir du besoin client
 # Gérer un projet avec les méthodologies agiles
 # Prototyper une solution technique pour un client avec les modèles de domaine et maquettes

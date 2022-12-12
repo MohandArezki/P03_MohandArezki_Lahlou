@@ -17,3 +17,8 @@ Project
 │   ├── Lahlou_Mohand_Arezki_4_kanban_122022
 ├── img
 ├── documentation
+
+DéfiniCompétences évaluées
+# Définir les exigences fonctionnelles de l’application à partir du besoin client
+# Gérer un projet avec les méthodologies agiles
+# Prototyper une solution technique pour un client avec les modèles de domaine et maquettes

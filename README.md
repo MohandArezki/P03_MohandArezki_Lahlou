@@ -24,5 +24,5 @@ Compétences évaluées
     - Prototyper une solution technique pour un client avec les modèles de domaine et maquettes
 
 <p align="center">
-  <img src="img/validation.png">
+    <img alt="validation" src="/img/validation.png">
 </p>

@@ -22,3 +22,7 @@ Compétences évaluées
     - Définir les exigences fonctionnelles de l’application à partir du besoin client
     - Gérer un projet avec les méthodologies agiles
     - Prototyper une solution technique pour un client avec les modèles de domaine et maquettes
+
+<p align="center">
+  <img src="img/validation.png">
+</p>

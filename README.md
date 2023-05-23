@@ -8,7 +8,7 @@ Designez une application Python adaptée aux besoins d'un client
 
 <a id="structure"></a>
 ## Structure 
-
+'''
 Project
 ├── P3_03_MOHAND_AREKI_LAHLOU: répertoire des livrables
 │   ├── Lahlou_Mohand_Arezki_1_diagramme_UML_122022.drawio

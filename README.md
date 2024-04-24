@@ -3,7 +3,8 @@
     <br>
 </h3>
 
-# OpenClassrooms - Formation Développeur d'application Python - Projet 03
+# Projet 03
+## OpenClassrooms - Formation Développeur d'application Python -
 Designez une application Python adaptée aux besoins d'un client
 ## Objectifs pédagogiques
     1. Mener une veille technologique

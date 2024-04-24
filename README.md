@@ -5,7 +5,11 @@
 
 # OpenClassrooms - Formation Développeur d'application Python - Projet 03
 Designez une application Python adaptée aux besoins d'un client
-
+## Objectifs pédagogiques
+    1. Mener une veille technologique
+    2. Définir les exigences fonctionnelles de l’application à partir du besoin client
+    3. Gérer un projet avec les méthodologies agiles
+    4. Concevoir une solution technique pour un client
 <a id="structure"></a>
 ## Structure 
 ```
@@ -17,11 +21,6 @@ Project
 │   ├── Lahlou_Mohand_Arezki_4_kanban_122022
 ├── img
 ├── documentation
-
-Compétences évaluées
-    - Définir les exigences fonctionnelles de l’application à partir du besoin client
-    - Gérer un projet avec les méthodologies agiles
-    - Prototyper une solution technique pour un client avec les modèles de domaine et maquettes
 
 ```
 <p align="center">
